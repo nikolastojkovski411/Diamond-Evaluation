@@ -67,10 +67,10 @@ Both datasets contained a substantial amount of missing data. Key points:
 - Conflict status negatively correlates with log retail price (-0.34), confirming significance.  
 
 **Figures Placeholder:**  
-- `![Vendor Pricing](images/vendor_pricing.png)`  
-- `![ROI by Vendor](images/roi_vendor.png)`  
-- `![Conflict Diamond Distribution](images/conflict_distribution.png)`  
-- `![Correlation Heatmap](images/correlation_heatmap.png)`  
+ ![Vendor Pricing](images/vendor_pricing.png)  
+ ![ROI by Vendor](images/roi_vendor.png) 
+ ![Conflict Diamond Distribution](images/conflict_distribution.png)  
+ ![Correlation Heatmap](images/correlation_heatmap.png)  
 
 ---
 
@@ -82,8 +82,8 @@ Both datasets contained a substantial amount of missing data. Key points:
 - Conflict diamond variable remains significant.  
 
 **Tables Placeholder:**  
-- `![OLS Regression Summary](images/ols_regression_summary.png)`  
-- `![Polynomial Terms Impact](images/polynomial_terms_impact.png)`  
+ ![OLS Regression Summary](images/ols_regression_summary.png) 
+ ![Polynomial Terms Impact](images/polynomial_terms_impact.png) 
 
 Data was segmented into diamonds with known vs. unknown conflict status for modeling.
 
