@@ -1,5 +1,5 @@
 # Diamond Valuation & Offer Optimization  
-**Enova Technical Assessment — by Nikola Stojkovski**
+**by Nikola Stojkovski**
 
 ---
 
