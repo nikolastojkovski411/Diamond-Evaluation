@@ -82,8 +82,8 @@ Both datasets contained a substantial amount of missing data. Key points:
 - Conflict diamond variable remains significant.  
 
 **Tables Placeholder:**  
-- `Table 1: OLS Regression Summary`  
-- `Table 2: Polynomial Terms Impact`  
+- `![OLS Regression Summary](images/ols_regression_summary.png)`  
+- `![Polynomial Terms Impact](images/polynomial_terms_impact.png)`  
 
 Data was segmented into diamonds with known vs. unknown conflict status for modeling.
 
